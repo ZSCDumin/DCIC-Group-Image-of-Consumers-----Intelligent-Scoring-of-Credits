@@ -1,4 +1,4 @@
-# DCIC-Group-Image-of-Consumers-----Intelligent-Scoring-of-Credits
+# Intelligent-Scoring-of-Credits
 比赛：消费者人群画像—信用智能评分
 主办方：福建省数字福建建设领导小组办公室 & 福建省工业和信息化厅 & 福州市人民政府 & 中国电子信息产业发展研究院 & 数字中国研究院 & 中国互联网投资基金
 
@@ -14,16 +14,11 @@
 
 以及鱼佬在知乎上写的文章都让我们受益匪浅。https://www.zhihu.com/people/wang-he-13-93/posts
 
-
 运行代码步骤及说明：
 
 1.先创建一个result的文件夹，来存放训练结果。
 
 2.src文件夹中的main.py运行模型，然后运行dealdata.py来进行模型融合。
-
-注：把文件夹名src改为src2（忘改回来了）
-
-
 
 feature.py是我们构造的六套特征
 
